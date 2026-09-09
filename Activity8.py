@@ -1,0 +1,1 @@
+hobbies = "" #empty string
