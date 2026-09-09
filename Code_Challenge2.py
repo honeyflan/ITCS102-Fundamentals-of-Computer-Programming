@@ -1,3 +1,12 @@
+#Breakdown fix money value to peso
+# 100, 500, 200, 100, 50, 10, 5,1
+
+money= eval(input("Enter the money to deposit --->"))
+# in(), Eval(), type()
+#print(type(money))
+
+print("================================PH BANK BREAKDOWN================================")
+print(" MONEY TO DEPOSIT ------>", money, "php")
 
 
 a=19863
@@ -34,4 +43,5 @@ a=a%10
 print("tenth:", ten)
 one=a//1
 a=a%1
+print("ones:", one)
 print("ones:", one)
