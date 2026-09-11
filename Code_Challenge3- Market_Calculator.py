@@ -33,7 +33,6 @@ else:
 total = round(total, 2)
 
 print("Hi", Sender_Name, "the total cost of shipping your", Type_of_item, "is $", total)
-""
 
 
 
